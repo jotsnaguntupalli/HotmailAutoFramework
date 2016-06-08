@@ -1,10 +1,11 @@
 ﻿using System;
+using HotmailAutoFramework.Core;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace HotmailAutoFramework
+namespace HotmailTest.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class InboxTest 
     {
         [TestMethod]
         public void TestMethod1()
